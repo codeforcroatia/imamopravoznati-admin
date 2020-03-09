@@ -10,7 +10,7 @@ permalink: /blog/index.html
     <span class="post-list-title">Popis dostupnih postova</span>
     <ul class="post-list">
         {% assign numPages=0 %}
-        {% assign items = site.posts %}
+        {% assign items = site.posts | sort_natural %}
         {% for post in items %}
 
         {% if post.layout != "null" and post.sitemap != false and post.title %}

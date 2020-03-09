@@ -8,7 +8,7 @@ is_wiki_page: false
     <span class="page-list-title">Popis dostupnih stranica</span>
     <ul class="page-list">
         {% assign numPages=0 %}
-        {% assign items = site.html_pages | sort: 'date' %}
+        {% assign items = site.html_pages | sort_natural %}
         {% for page in items %}
         {% if page.is_wiki_page != false and page.sitemap != false %}
         <li class="page-list-item">

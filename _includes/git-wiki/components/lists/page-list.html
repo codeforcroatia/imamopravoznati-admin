@@ -21,9 +21,12 @@
         {% endif %}
 
         {% endfor %}
+        <li><a href="{{ '/pages' | relative_url}}">Sve stranice...</a></li>
     </ul>
 
+    <!--
     <span class="post-list read-all"><a href="{{ '/pages' | relative_url}}">Sve stranice...</a></span>
+    -->
 
     {% if site.inc_after_page_list %}
     {% include {{ site.inc_after_page_list }} %}

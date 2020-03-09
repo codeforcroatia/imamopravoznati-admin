@@ -21,9 +21,12 @@
         {% endif %}
 
         {% endfor %}
+        <li><a href="{{ '/blog/' | relative_url}}">Svi postovi...</a></li>
     </ul>
 
+    <!--
     <span class="post-list read-all"><a href="{{ '/blog/' | relative_url}}">Svi postovi...</a></span>
+    -->
 
     {% if site.inc_after_post_list %}
     {% include {{ site.inc_after_post_list }} %}
