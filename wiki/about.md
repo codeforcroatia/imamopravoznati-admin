@@ -4,12 +4,37 @@ title: O priručniku
 
 # O priručniku
 
-Ovaj priručnik namjenjen je za administratore i moderatore portala [Imamo pravo znati][IPZ] kojeg pokreće platforma Alaveteli. Nastavi čitati ako si administrator portala.
+Ovaj priručnik namjenjen je za osoblje portala [Imamo pravo znati][IPZ] kojeg pokreće platforma Alaveteli. Nastavi čitati ako si dio tima osoblja portala.
+
+Vrste aktera na *Imamo pravo znati*:
+* korisnici, sve osobe koje imaju interakciju sa portalom
+  * podnositelji zahtjeva, osobe koje aktivno koriste osnovne funkcionalnosti portala kao na primjer podnošenje zahtjeva putem portala, pisanje komentara na zahtjeve drugih osoba, itd.,
+  * pratitelji, osobe koje pasivno prate zahtjeve, tijela javne ili korisnike portala (npr. službenici za informiranje koji monitoriraju portal za nove zahtjeve njihovom tijelu javne vlasti),
+  * službenici za informiranje, osobe koje emailom zaprimaju zahtjeve poslane putem portala i odgovaraju na zahtjeve korisnika portala,
+* osoblje, volonteri koji upravljaju i održavaju portal, a sastoje se od sljedećih uloga
+  * pripravnik podrške,
+  * moderator,
+  * administrator,
+  * sistem administrator,
+  * razvojni inženjer,
+  * prevoditelji,
+  * alumni.
 
 ## Priručnik za osoblje portala
+
 Ovaj priručnik podrobnije će objasniti kako se administrira portal, što možeš očekivati i kakve probleme možeš otkriti. Također uključuje primjere dobre prakse iz drugih projekata i drugih zemalja.
 
+### Uloga i odgovornosti volontera
+
+Volonter_ka brine o uspješnosti rada portala i osigurava da korisnici pravilno koriste *Imamo pravo znati* i pravodobno ih savjetuje o procesu i njihovim pravima te osigurava točnost kontakt podataka tijela javne vlasti. Cilj je omogućiti nesmetano podnošenje pravilnih zahtjeva za pristup informacijama tijelima javne vlasti kako bi korisnici dobili odgovarajuće tražene informacije.
+
+Na poslovima administriranja portala razlikujemo sljedeće uloge volontera:
+- pripravnik podrške,
+- moderator,
+- administrator.
+
 ### Što uključuje održavanje
+
 Ima mnogo općenitih zadataka koji su uključeni u administratorskim dužnostima. Richard, volonter Alaveteli portala za pravo na pristup informacijama u Velikoj Britaniji WhatDoTheyKnow, napisao je [priču na blogu][richard-blog-2009] o tome u 2009. godini.
 
 Ovakve portale održavaju volonteri, poput mene i tebe, koji povremeno izdvajaju dio svog slobodnog vremena da poprave sitne stvari prije nego se nagomila jako puno sitnih stvari za popravak koje će otežati rad portala. Na drugim ovakvim projektima je obično 3 aktivna administratora koji redovno prate promjene na portalu, uz dodatnu pomoć manje aktivnih moderatora koji povremeno pomognu.
@@ -48,7 +73,7 @@ Ovdje koristimo često sljedeće pojmove:
 - **odlazna poruka** je svaka poruka koju podnositelj piše za neki predmet, one se šalju tijelu javne vlasti u obliku e-maila
 - **zahtjev** je obično prva odlazna poruka u jednom predmetu; to je poruka u kojoj podnositelj zahtjeva traži neke informacije od tijela javne vlasti
 - **dolazna poruka** je svaka poruka zaprimljena na portalu kao odgovor na bilo koju odlaznu poruku za neki predmet
-- **komentar** je komentar bilo kojeg korisnika na bilo kojem predmetu; oni se ne šalju pravoj osobi
+- **komentar** je komentar bilo kojeg korisnika na bilo kojem predmetu; oni se ne šalju pravoj osobi.
 
 [richard-blog-2009]:    https://www.mysociety.org/2009/10/13/behind-whatdotheyknow/
 [maintenance]:          /odrzavanje
