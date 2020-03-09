@@ -4,3 +4,23 @@ permalink: /blog/index.html
 ---
 
 <!--- this file is needed for automatic creation of blog page --->
+
+<div class="git-wiki-page-list">
+
+    <span class="post-list-title">Popis dostupnih postova</span>
+    <ul class="post-list">
+        {% assign numPages=0 %}
+        {% assign items = site.posts | sort: 'date' %}
+        {% for post in items %}
+
+        {% if post.layout != "null" and post.sitemap != false and post.title %}
+        <li class="post-list-item">
+            <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </li>
+        {% assign numPages = numPages | plus: 1 %}
+        {% endif %}
+
+        {% endfor %}
+    </ul>
+
+</div>

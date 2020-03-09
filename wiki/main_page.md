@@ -9,4 +9,4 @@ Ove stranice daju detaljni uvid u strategiju upravljanja internetskim portalom I
 
 Sve probleme oko internetskog portala prijavite [voditelju projekta](https://codeforcroatia.org/projects/zahtjev_za_pravo_na_pristup_informacijama).
 
-U izborniku pronađi stranice koje opisuju standardne procese, a ispod stranica se nalaze najčešći scenariji i procedure za jednostavnu primjenu. Detalje pročitajte na stranici [o priručniku](/about).
+U izborniku pronađi [stranice](/pages) koje opisuju standardne procese, a ispod stranica se nalaze [postovi](/blog/) sa najčešćim scenarijima i procedurama za jednostavnu primjenu. Detalje pročitajte na stranici [o priručniku](/about).

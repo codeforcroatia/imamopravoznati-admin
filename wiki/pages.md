@@ -1,3 +1,8 @@
+---
+title: Sve stranice
+is_wiki_page: false
+---
+
 <div class="git-wiki-page-list">
 
     <span class="page-list-title">Popis dostupnih stranica</span>
