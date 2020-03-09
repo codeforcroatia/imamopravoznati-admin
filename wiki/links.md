@@ -24,7 +24,7 @@ Službeni registar koji sadrži popis tijela javne vlasti i kontakta službenika
 
 [ImamoPravoZnati.org]:           https://imamopravoznati.org
 [publikacije]:                   https://publikacije.imamopravoznati.org
-[statisitka]:                    https://stats.imamopravoznati.org
+[statistika]:                    https://stats.imamopravoznati.org
 [SearchAll]:                     http://imamopravoznati.org/list/all?#results
 [0-ppi-project]:                 https://0.codeforcroatia.org/ipz
 [PristupInfo.hr]:                https://www.pristupinfo.hr/
