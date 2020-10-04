@@ -11,6 +11,7 @@ Portal za ostvarivanje prava na pristup informacijama slanjem elektronskih predm
 - **[Imamo pravo znati statistika][statistika]** Godišnja statistika predmeta koji su poslani putem portala *Imamo pravo znati*.
 - **[Svi predmeti][SearchAll]** Filter pretrage koji daje popis svih predmeta koji su poslani putem portala *Imamo pravo znati*.
 - **[Napredna pretraga][AdvancedSearch]** Stranica za naprednu pretragu s filterima i opis svakog naprednog filtera.
+- **[Timeline][timeline]** Popis svih posljednjih izmjena za pregled osoblja portala.
 
 **[Publikacije prava na pristup informacijama][publikacije]**
 Strojno čitljive službene publikacije o pravu na pristup informacijama. Slobodno za dijeljenje.
@@ -30,3 +31,4 @@ Službeni registar koji sadrži popis tijela javne vlasti i kontakta službenika
 [PristupInfo.hr]:                https://www.pristupinfo.hr/
 [TJV]:                           http://tjv.pristupinfo.hr/
 [AdvancedSearch]:                http://imamopravoznati.org/advancedsearch
+[timeline]:                      /timeline/
