@@ -9,8 +9,8 @@ Kada korisnik označi da je predmet riješen nekim od konačnih statusa, potrebn
 
 Koraci:
 1. U administraciji predmeta, potrebno je editirati metapodatke:
-   1. pod "Awaitign description" postaviti opciju na "Yes - needs state updating"
-   2. pod "Described state" postaviti opciju na "waiting_clarification"
+   a. pod "Awaitign description" postaviti opciju na "Yes - needs state updating"
+   b. pod "Described state" postaviti opciju na "waiting_clarification"
 2. Na predmetu je potrebno objaviti obavijesni komentar za korisnika:
 
 ```
